@@ -21,7 +21,7 @@
 ### 👩‍💻 About Me
 
 I'm Sabbir from BD 
-- 📚 I'm currently learning - MERN stack.
+- 📚 I'm currently learning - Next.js.
 - 🔭 I’m looking - To Collaborate on open source project  
 - ⚡ In my free time - I do awesome web project.
 - ✨ I love - To travel and play video games.
