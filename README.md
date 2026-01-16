@@ -49,11 +49,10 @@ I'm Sabbir from BD
 
 ---
 
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sabbir-islam&theme=dark&cache_seconds=86400" height="220" alt="streak graph"  />
-</div>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sabbir-islam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sabbir-islam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-islam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
