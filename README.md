@@ -49,10 +49,13 @@ I'm Sabbir from BD
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sabbir-islam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sabbir-islam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-islam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sabbir-islam&show_icons=true&theme=dark)
+
+![](https://streak-stats.demolab.com?user=sabbir-islam&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-islam&layout=compact&theme=dark)
 
 ---
 
