@@ -21,7 +21,7 @@
 ### 👩‍💻 About Me 
 
 I'm Sabbir from BD 
-- 📚 I'm currently learning - Next.js.
+- 📚 I'm currently learning - AI/ML.
 - 🔭 I’m looking - To Collaborate on open source project  
 - ⚡ In my free time - I build awesome web project.
 - ✨ I love - To travel and play video games.
